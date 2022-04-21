@@ -24,4 +24,6 @@ Smart Contract Developer Bootcamp @ETHDenver:
 
 01_MyFirstERC20Token.sol => https://rinkeby.etherscan.io/address/0x61a680963e710678831bca3aebe9d4df340746fc
 
+02_PriceConsumer.sol => https://rinkeby.etherscan.io/address/0x25b735e615b117f01bbd545db42f76fab1be5c55#code
+
 ---
